@@ -1,0 +1,11 @@
+[package]
+authors = ["panicbit <panicbit.dev@gmail.com>"]
+name = "tokio_chat"
+version = "0.1.0"
+
+[dependencies]
+futures = "0.1.14"
+futures-cpupool = "0.1.5"
+hyper = "0.11.2"
+tokio-core = "0.1.9"
+tokio-io = "0.1.2"
